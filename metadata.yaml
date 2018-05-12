@@ -1,0 +1,27 @@
+_repo: Captain-Kyd-Vol.-IIor-The-Wizard-of-the-Sea_35810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingraham, J. H. (Joseph Holt)
+    alias: Ingraham, Joseph Holt
+    birthdate: 1809
+    deathdate: 1860
+    gutenberg_agent_id: '37483'
+    url: http://www.gutenberg.org/2009/agents/37483
+description: ''
+gutenberg_issued: '2011-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Fiction'
+- !lcc 'PS'
+title: Captain Kyd; or, The Wizard of the Sea. Vol. II
+url: http://www.gutenberg.org/ebooks/35810
