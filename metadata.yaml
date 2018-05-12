@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37483'
     url: http://www.gutenberg.org/2009/agents/37483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35810#Captain-Kyd-Vol.-IIor-The-Wizard-of-the-Sea
 gutenberg_issued: '2011-04-09'
 gutenberg_type: Text
 identifiers:
